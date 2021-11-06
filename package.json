@@ -1,5 +1,6 @@
 {
   "name": "react-typescript-clean-template",
+  "description": "React/Typescript clean template for your new projects; extraneous junks that come with create-react-app have been removed.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
