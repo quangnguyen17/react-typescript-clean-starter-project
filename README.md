@@ -10,10 +10,22 @@
 
 ## How to use template
 
-- To start a new project using this template:
+#### To start a new project using this template:
 
 ```bash
 git clone https://github.com/quangnguyen17/react-typescript-clean-template.git your-project-name
 ```
 
 _Replace **your-project-name** with your actual project name_
+
+#### To install project's dependencies:
+
+```bash
+npm install
+```
+
+#### To start project:
+
+```bash
+npm run start
+```
