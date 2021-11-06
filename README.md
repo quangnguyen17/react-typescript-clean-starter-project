@@ -13,5 +13,7 @@
 - To start a new project using this template:
 
 ```bash
-git clone
+git clone https://github.com/quangnguyen17/react-typescript-clean-template.git your-project-name
 ```
+
+_Replace **your-project-name** with your actual project name_
