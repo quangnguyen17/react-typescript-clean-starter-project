@@ -16,7 +16,7 @@
 git clone https://github.com/quangnguyen17/react-typescript-clean-template.git your-project-name
 ```
 
-_Replace **your-project-name** with your actual project name_
+Replace _**your-project-name**_ with your actual project name.
 
 #### To install project's dependencies:
 
