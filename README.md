@@ -1,6 +1,6 @@
 # react-typescript-clean-template
 
-- React Typescript clean template, extraneous junks that come with `create-react-app` have been removed.
+- React/Typescript clean template for your new projects; extraneous junks that come with `create-react-app` have been removed.
 - Comes with CSS margin, padding reset.
 
 ## Prerequisites
