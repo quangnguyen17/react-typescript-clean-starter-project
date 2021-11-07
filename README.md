@@ -1,7 +1,7 @@
 # react-typescript-clean-template
 
-- React/Typescript clean template for your new projects; extraneous junks that come with `create-react-app` are removed.
-- Comes with CSS margin, padding reset.
+- React/Typescript clean project template for you to use as a starter project. Extraneous junks that come with `create-react-app` are removed.
+- CSS reset applied (margin and padding are set to zero).
 
 ## Prerequisites
 
@@ -10,13 +10,13 @@
 
 ## How to use template
 
-#### To start a new project using this template:
+- Run the command below to create a new project:
 
 ```bash
 git clone https://github.com/quangnguyen17/react-typescript-clean-template.git your-project-name
 ```
 
-Replace _**your-project-name**_ with your actual project name.
+_* Replace `your-project-name` with your actual project name_
 
 #### To install project's dependencies:
 
@@ -28,4 +28,10 @@ npm install
 
 ```bash
 npm start
+```
+
+#### To create a build for production:
+
+```bash
+npm run build
 ```
